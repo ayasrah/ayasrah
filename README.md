@@ -4,4 +4,4 @@ I am Abdullah Ayasrah, a senior software engineer. I have long experience in ree
 
 Mostly working with: Postgres, C#, Java, Go, Flutter, And React. 
 
-You can reach out to me on [telegram](https://t.me/ayasrah0).
+[My Resume](https://drive.google.com/file/d/1hNgv5z64WHG0W_xzo-uKMEf0B-F-N7e1/view?usp=drive_link).
