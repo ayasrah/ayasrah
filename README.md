@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there
 
 I am Abdullah Ayasrah, a senior software engineer. I have long experience in reengineering and refactoring messy systems, data migrations, modeling, and UX Design. Focuses on user-centric solutions and systems maintainability.
 
